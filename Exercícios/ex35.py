@@ -5,6 +5,6 @@ a = float(input("Primeiro segmento "))
 b = float(input("Segundo segmento "))
 C = float(input("Terceiro segmento "))
 if a<b+c and b<a+c and c<a+b:
-print("Os segmentos acima podem formar um triangulo")
+ print("Os segmentos acima podem formar um triangulo")
 else:
-print("os segmentos acima não podem formar um triangulo")
+ print("os segmentos acima não podem formar um triangulo")
